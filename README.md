@@ -18,3 +18,8 @@ UI project for animal adoption app
 * Add 2 extensions to this page:
   * Add 1 more pet with your own image, description, etc.
   * Add one more feature of your choice. Maybe a list of local animal shelters, a new page with a complete bio for one of the pets (immunizations, favorite toys, evil nemesis), whatever you want!
+* When you're done making changes, commit them using `git` and push your changes to github:
+  * Open a terminal and `cd` until you're inside the project directory. e.g. Run something like `cd ~/projects/adopt-a-pet`
+  * Commit your changes. Run `git status` to see what you changed. If it looks good, run `git add .` which means "add all the changes in the current directory to my new commit". Then run `git commit -m "Homework assignment 1"` to commit the changes.
+  * Push your updates to github: `git push` should do it.
+  * Treat yoself! You've earned a pat on the back.
